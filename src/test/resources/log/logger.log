@@ -1,0 +1,53 @@
+2023-04-07 00:34:26  [com.training.template.util.BaseTestObject] (main:) Load the properties file /testdata/stg_data.properties
+2023-04-07 00:34:26  [com.training.template.util.BaseTestObject] (main:) createBrowser()
+2023-04-07 00:35:14  [com.training.template.util.BaseTestObject] (main:) closeBrowser()
+2023-04-08 11:50:15  [com.training.template.util.BaseTestObject] (main:) Load the properties file /testdata/stg_data.properties
+2023-04-08 11:50:15  [com.training.template.util.BaseTestObject] (main:) createBrowser()
+2023-04-22 10:12:29  [com.training.template.util.BaseTestObject] (main:) Load the properties file /testdata/stg_data.properties
+2023-04-22 10:12:29  [com.training.template.util.BaseTestObject] (main:) createBrowser()
+2023-04-22 10:13:03  [com.training.template.util.BaseTestObject] (main:) closeBrowser()
+2023-04-22 10:39:09  [com.training.template.util.BaseTestObject] (main:) Load the properties file /testdata/stg_data.properties
+2023-04-22 10:39:09  [com.training.template.util.BaseTestObject] (main:) createBrowser()
+2023-04-22 10:40:02  [com.training.template.util.BaseTestObject] (main:) closeBrowser()
+2023-11-03 19:46:21  [com.training.template.util.BaseTestObject] (main:) Load the properties file /testdata/stg_data.properties
+2023-11-03 19:46:21  [com.training.template.util.BaseTestObject] (main:) createBrowser()
+2023-11-03 19:51:26  [com.training.template.util.BaseTestObject] (main:) Load the properties file /testdata/stg_data.properties
+2023-11-03 19:51:26  [com.training.template.util.BaseTestObject] (main:) createBrowser()
+2023-11-03 19:56:49  [com.training.template.util.BaseTestObject] (main:) Load the properties file /testdata/stg_data.properties
+2023-11-03 19:56:49  [com.training.template.util.BaseTestObject] (main:) createBrowser()
+2023-11-03 19:58:15  [com.training.template.util.BaseTestObject] (main:) closeBrowser()
+2023-11-03 20:01:14  [com.training.template.util.BaseTestObject] (main:) Load the properties file /testdata/stg_data.properties
+2023-11-03 20:01:14  [com.training.template.util.BaseTestObject] (main:) createBrowser()
+2023-11-03 20:01:29  [com.training.template.util.BaseTestObject] (main:) closeBrowser()
+2023-11-03 20:02:51  [com.training.template.util.BaseTestObject] (main:) Load the properties file /testdata/stg_data.properties
+2023-11-03 20:02:51  [com.training.template.util.BaseTestObject] (main:) createBrowser()
+2023-11-03 23:12:16  [com.training.template.util.BaseTestObject] (main:) Load the properties file /testdata/stg_data.properties
+2023-11-03 23:12:16  [com.training.template.util.BaseTestObject] (main:) createBrowser()
+2023-11-03 23:12:28  [com.training.template.util.BaseTestObject] (main:) closeBrowser()
+2023-11-03 23:13:04  [com.training.template.util.BaseTestObject] (main:) Load the properties file /testdata/stg_data.properties
+2023-11-03 23:13:04  [com.training.template.util.BaseTestObject] (main:) createBrowser()
+2023-11-03 23:13:51  [com.training.template.util.BaseTestObject] (main:) closeBrowser()
+2023-11-03 23:15:23  [com.training.template.util.BaseTestObject] (main:) Load the properties file /testdata/stg_data.properties
+2023-11-03 23:15:23  [com.training.template.util.BaseTestObject] (main:) createBrowser()
+2023-11-03 23:16:17  [com.training.template.util.BaseTestObject] (main:) closeBrowser()
+2023-11-03 23:17:23  [com.training.template.util.BaseTestObject] (main:) Load the properties file /testdata/stg_data.properties
+2023-11-03 23:17:23  [com.training.template.util.BaseTestObject] (main:) createBrowser()
+2023-11-03 23:17:34  [com.training.template.util.BaseTestObject] (main:) closeBrowser()
+2023-11-04 12:06:55  [com.training.template.util.BaseTestObject] (main:) Load the properties file /testdata/stg_data.properties
+2023-11-04 12:06:56  [com.training.template.util.BaseTestObject] (main:) createBrowser()
+2023-11-04 12:07:59  [com.training.template.util.BaseTestObject] (main:) closeBrowser()
+2023-11-04 12:09:39  [com.training.template.util.BaseTestObject] (main:) Load the properties file /testdata/stg_data.properties
+2023-11-04 12:09:39  [com.training.template.util.BaseTestObject] (main:) createBrowser()
+2023-11-04 12:10:24  [com.training.template.util.BaseTestObject] (main:) closeBrowser()
+2023-11-04 12:23:38  [com.training.template.util.BaseTestObject] (main:) Load the properties file /testdata/stg_data.properties
+2023-11-04 12:23:38  [com.training.template.util.BaseTestObject] (main:) createBrowser()
+2023-11-04 12:24:42  [com.training.template.util.BaseTestObject] (main:) closeBrowser()
+2023-11-15 20:10:36  [com.training.template.util.BaseTestObject] (main:) Load the properties file /testdata/stg_data.properties
+2023-11-15 20:10:36  [com.training.template.util.BaseTestObject] (main:) createBrowser()
+2023-11-15 20:11:41  [com.training.template.util.BaseTestObject] (main:) closeBrowser()
+2023-11-15 20:12:36  [com.training.template.util.BaseTestObject] (main:) Load the properties file /testdata/stg_data.properties
+2023-11-15 20:12:36  [com.training.template.util.BaseTestObject] (main:) createBrowser()
+2023-11-15 20:13:02  [com.training.template.util.BaseTestObject] (main:) closeBrowser()
+2023-11-15 20:13:38  [com.training.template.util.BaseTestObject] (main:) Load the properties file /testdata/stg_data.properties
+2023-11-15 20:13:38  [com.training.template.util.BaseTestObject] (main:) createBrowser()
+2023-11-15 20:14:17  [com.training.template.util.BaseTestObject] (main:) closeBrowser()
